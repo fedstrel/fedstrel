@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I'm a student and I'm open to learn more about programming 👋
+### In particular, I'd love to learn more about game development
+### Interested in anything, really, but focused on Java back-end development
+### I'm currently working on chat with some cryptostuff, which is intended to be my course work
+### Fun fact: nutmeg is a hallucinogen ⚡⚡⚡
 <!--
 **fedstrel/fedstrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
