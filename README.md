@@ -1,3 +1,3 @@
-### Currently working at T-bank
-### Gonna switch to game-dev one day
+### Currently heavilly unemployed
+### Trying to switch to game-dev
 ### Fun fact: nutmeg is a hallucinogen ⚡⚡⚡
